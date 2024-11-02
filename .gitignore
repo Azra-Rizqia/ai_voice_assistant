@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+response_audio.mp3
+user_audio.wav
+audio.mp3
